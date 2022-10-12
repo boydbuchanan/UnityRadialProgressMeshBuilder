@@ -1,0 +1,12 @@
+.radial-progress {
+    min-width: 20px;
+    min-height: 20px;
+    --track-color: rgba(8, 78, 183, 1);
+    --progress-color: rgba(255, 255, 255, 1);
+    --percentage-color: white;
+    
+}
+
+.radial-progress__label {
+    color: var(--percentage-color);
+}
