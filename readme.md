@@ -40,5 +40,4 @@ Used as original framework
 # Known Issues
 
 After generating the mesh, the UIElement renders the mesh upside down
-
-:::image type="content" source="Images/RadialFlipped.png" alt-text="Issue":::
+![Issue](Images/RadialFlipped.png)
